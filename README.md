@@ -1,6 +1,6 @@
-👋 Hi, I’m @saurav1044
-👀 I’m interested in Exploring and Trying New things
-🌱 I’m currently learning Reactjs,Nextjs,Javascrit,Nodejs
+- 👋 Hi, I’m @saurav1044
+- 👀 I’m interested in Exploring and Trying New things
+- 🌱 I’m currently learning Reactjs,Nextjs,Javascrit,Nodejs
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav1044&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurav1044" />
 </p>
