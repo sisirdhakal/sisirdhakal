@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Reactjs,Nextjs,Javascrit
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav1044)](https://github.com/anuraghazra/github-readme-stats)
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurav1044&theme=dark)](https://git.io/streak-stats)
 
 <!---
