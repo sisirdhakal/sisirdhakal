@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Reactjs,Nextjs,Javascrit
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
-- https://github-readme-stats.vercel.app/api/top-langs?username=saurav1044&show_icons=true&theme=dark&locale=en&layout=compact
+- <p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav1044&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurav1044" />
+</p>
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurav1044&theme=dark)](https://git.io/streak-stats)
 
 <!---
