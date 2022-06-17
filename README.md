@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Reactjs,Nextjs,Javascrit
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?saurav1044=DenverCoder1)](https://git.io/streak-stats)
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurav1044)](https://git.io/streak-stats)
 
 <!---
 saurav1044/saurav1044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
