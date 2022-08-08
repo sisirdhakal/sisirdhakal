@@ -10,10 +10,11 @@ huh- 👋 Hi, I’m @saurav1044.
 </p>
 
 
+<!----
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav1044&theme=dark&locale=en" alt="saurav1044" />
 </p>
-
+--->
 
 <!---
 <p alight="right">
