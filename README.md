@@ -9,12 +9,9 @@ huh- 👋 Hi, I’m @saurav1044.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav1044&show_icons=true&theme=dark&locale=en" alt="saurav1044" />
 </p>
 
-
-<!----
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav1044&theme=dark&locale=en" alt="saurav1044" />
 </p>
---->
 
 <!---
 <p alight="right">
