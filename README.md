@@ -6,14 +6,6 @@ huh- 👋 Hi, I’m @saurav1044.
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
- <!--C-->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
- <!--CPP-->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
  <!--Figma-->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -45,7 +37,7 @@ huh- 👋 Hi, I’m @saurav1044.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a>
  <!--Expressjs-->
-<a href="https://www.expressjs.org/" style="background-color:white;" target="_blank" rel="noreferrer">
+<a href="https://www.expressjs.org/" style="background-color:white;" width="50" height="50" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </a>
 <!-- mongodb  -->
