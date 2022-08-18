@@ -35,7 +35,6 @@ huh- 👋 Hi, I’m @saurav1044.
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   </a>
- <i class="nextjs-nextjs-plain-wordmark colored"></i>
 <!--Tailwind CSS-->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -46,7 +45,7 @@ huh- 👋 Hi, I’m @saurav1044.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a>
  <!--Expressjs-->
-<a href="https://www.expressjs.org/" target="_blank" rel="noreferrer">
+<a href="https://www.expressjs.org/" style="background-color:white;" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </a>
 <!-- mongodb  -->
