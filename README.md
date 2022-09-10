@@ -58,11 +58,9 @@ huh- 👋 Hi, I’m @saurav1044.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav1044&theme=dark&locale=en" alt="saurav1044" />
 </p>
 
-<!---
 <p alight="right">
 <img align="right" src="https://komarev.com/ghpvc/?username=saurav1044&style=plastic&color=blue" />
 </p>
---->
 
 <!---
 saurav1044/saurav1044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
