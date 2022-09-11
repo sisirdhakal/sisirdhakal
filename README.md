@@ -38,7 +38,7 @@ huh- 👋 Hi, I’m @saurav1044.
 </a>
  <!--Expressjs-->
 <a href="https://www.expressjs.org/" style="background-color:white;" width="50" height="50" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="./Expressjs.png" alt="express" width="40" height="40"/>
 </a>
 <!-- mongodb  -->
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
