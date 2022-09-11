@@ -25,7 +25,7 @@ huh- 👋 Hi, I’m @saurav1044.
   </a>
  <!--Next.js-->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+    <img src="./next_logo.png" alt="nextjs" width="40" height="40"/>
   </a>
 <!--Tailwind CSS-->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
