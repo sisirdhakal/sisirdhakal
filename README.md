@@ -4,6 +4,7 @@ huh- 👋 Hi, I’m @sisirdhakal.
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
+<meta name="title" content="sisirdhakal" />
 
 <p align="left">
  <!--Figma-->
