@@ -62,11 +62,9 @@ huh- 👋 Hi, I’m @sisirdhakal.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisirdhakal&theme=dark&locale=en" alt="sisirdhakal" />
 </p>
 
-<!---
 <p alight="right">
 <img align="right" src="https://komarev.com/ghpvc/?username=sisirdhakal&style=plastic&color=blue" />
 </p>
---->
 
 <!---
 sisirdhakal/sisirdhakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
