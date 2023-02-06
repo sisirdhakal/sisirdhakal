@@ -18,6 +18,10 @@ huh- 👋 Hi, I’m @sisirdhakal.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+ <!--TypeScript-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
  
  <!--React.js-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -49,10 +53,11 @@ huh- 👋 Hi, I’m @sisirdhakal.
 <img src="./mysql.svg" alt="mongodb" width="40" height="40"/>
 </a> 
 </p>
-
+<!---
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisirdhakal&show_icons=true&theme=dark&locale=en&layout=compact" alt="sisirdhakal" />
 </p>
+--->
 <!---
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sisirdhakal&show_icons=true&theme=dark&locale=en" alt="sisirdhakal" />
