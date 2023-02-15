@@ -35,6 +35,10 @@ huh- 👋 Hi, I’m @sisirdhakal.
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+ <!--MaterialUi-->
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
+  </a>
  
 <!--Nodejs-->
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer">
@@ -49,8 +53,8 @@ huh- 👋 Hi, I’m @sisirdhakal.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a> 
  <!-- mysql  -->
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="./mysql.svg" alt="mongodb" width="40" height="40"/>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="./mysql.svg" alt="mysql" width="40" height="40"/>
 </a> 
 </p>
 <!---
