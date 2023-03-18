@@ -1,6 +1,6 @@
 huh- 👋 Hi, I’m @sisirdhakal.
 - 👀 I’m interested in Exploring and Trying New things.
-- 🌱 I’m currently learning Reactjs,Nextjs,Javascrit,Nodejs.
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
