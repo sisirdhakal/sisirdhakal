@@ -1,6 +1,5 @@
-huh- 👋 Hi, I’m @sisirdhakal.
-- 👀 I’m interested in Exploring and Trying New things.
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
+👋 Hi, I'm Sisir Dhakal, a professional MERN Stack developer. .
+I enjoy exploring new technologies and continuously improving my skills. My expertise lies in building efficient and scalable web applications using MongoDB, Express, React, NextJs, Typescript and Node.js
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
