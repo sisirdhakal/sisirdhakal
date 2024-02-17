@@ -1,5 +1,5 @@
-👋 Hi, I'm Sisir Dhakal, a professional MERN Stack developer.
-- I enjoy exploring new technologies and continuously improving my skills. My expertise lies in building efficient and scalable web applications using  React, NextJs, Typescript, Node.js, Express and MongoDB.
+👋 Hi, I'm Sisir Dhakal, a developer with a passion for machine learning.
+- While I have expertise in MERN Stack development, my main focus now lies in mastering TensorFlow, Python, Jupyter Notebook, NumPy, and Pandas for machine learning projects. Excited to explore the endless possibilities in AI and data science!
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
