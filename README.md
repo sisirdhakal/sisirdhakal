@@ -1,6 +1,13 @@
 👋 Hi, I'm Sisir Dhakal, a developer with a passion for machine learning.
 - While I have expertise in MERN Stack development, my main focus now lies in mastering TensorFlow, Python, Jupyter Notebook, NumPy, and Pandas for machine learning projects. Excited to explore the endless possibilities in AI and data science!
 
+<h2 align='center'>Publications</h2>
+
+<p align='center'>
+    <b>Subek Sharma</b>, Sisir Dhakal, Mansi Bhavsar <i><a href="https://www.academia.edu/121953366/Evaluating_Transfer_Learning_in_Deep_Learning_Models_for_Classification_on_a_Custom_Wildlife_Dataset_Can_YOLOv8_Surpass_Other_Architectures">"Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"</a></i>, (In review).
+
+</p>
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
