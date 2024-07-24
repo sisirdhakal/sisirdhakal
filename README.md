@@ -12,9 +12,9 @@ With a foundation in MERN Stack development, my current passion is centered on m
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
-<p align="left">
+<p align="center">
  <!--Git-->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -92,7 +92,7 @@ With a foundation in MERN Stack development, my current passion is centered on m
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a> 
 </p>
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisirdhakal&show_icons=true&theme=dark&locale=en&layout=compact" alt="sisirdhakal" />
 </p>
 <!---
@@ -100,7 +100,7 @@ With a foundation in MERN Stack development, my current passion is centered on m
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sisirdhakal&show_icons=true&theme=dark&locale=en" alt="sisirdhakal" />
 </p>
 --->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisirdhakal&theme=dark&locale=en" alt="sisirdhakal" />
 </p>
 <!---
