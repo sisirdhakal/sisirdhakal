@@ -92,6 +92,10 @@ With a foundation in MERN Stack development, my current passion is centered on m
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a> 
 </p>
+
+<!-- Languages and Tools -->
+<h2 align="center">Stats:</h2>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisirdhakal&show_icons=true&theme=dark&locale=en&layout=compact" alt="sisirdhakal" />
 </p>
