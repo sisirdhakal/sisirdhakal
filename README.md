@@ -1,7 +1,7 @@
 <h2 align='center'>👋 Hi, I'm Sisir Dhakal.</h2>
 
 <p align='center'>
-With a foundation in MERN Stack development, my current passion is centered on mastering TensorFlow, Python, Jupyter Notebook, NumPy, and Pandas to delve deeper into the realms of machine learning and artificial intelligence. I am excited to explore the limitless potential of AI and data science.
+With a foundation in MERN Stack development, my current passion is centered on mastering TensorFlow, Python, Jupyter Notebook, NumPy, and Pandas to delve deeper into the realms of machine learning and artificial intelligence. I am particularly interested in the interdisciplinary applications of computer vision and AI, and I am actively seeking opportunities to collaborate with fellow enthusiasts to drive impactful contributions in these fields.
 </p>
 
 <h2 align='center'>Publications</h2>
