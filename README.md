@@ -32,6 +32,10 @@ With a foundation in MERN Stack development, my current passion is centered on m
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+  <!--Pytorch-->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+  </a>
   </a>
    <!--Pandas-->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
