@@ -10,6 +10,9 @@ With a foundation in MERN Stack development, my current passion is centered on m
     <b>Subek Sharma</b>, <b> Sisir Dhakal </b>, Mansi Bhavsar <i><a href="https://arxiv.org/abs/2408.00002v1">"Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"</a></i>, (In review).
 
 </p>
+<p align='center'>
+    <b> Sisir Dhakal </b>, Sujan Sigdel, Sandesh Prasad Paudel, Sharad Kumar Ranabhat, Nabin Lamichhane <i><a href="https://arxiv.org/abs/2410.05721">"Mero Nagarikta: Advanced Nepali Citizenship Data Extractor with Deep Learning-Powered Text Detection and OCR"</a></i>, (In review).
+</p>
 
 <!-- Languages and Tools -->
 <h2 align="center">Languages and Tools:</h2>
