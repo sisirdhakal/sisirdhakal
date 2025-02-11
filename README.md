@@ -103,6 +103,7 @@ With a foundation in MERN Stack development, my current passion is centered on m
 <!-- Languages and Tools -->
 <h2 align="center">Stats:</h2>
 
+<!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisirdhakal&show_icons=true&theme=dark&locale=en&layout=compact" alt="sisirdhakal" />
 </p>
@@ -110,6 +111,7 @@ With a foundation in MERN Stack development, my current passion is centered on m
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisirdhakal&theme=dark&locale=en" alt="sisirdhakal" />
 </p>
+-->
 <!---
 <p alight="right">
 <img align="right" src="https://komarev.com/ghpvc/?username=sisirdhakal&style=plastic&color=blue" />
