@@ -100,7 +100,7 @@ With a foundation in MERN Stack development, my current passion is centered on m
 </a>
 <!--Graphql-->
 <a href="https://graphql.org/" style="background-color:white;"  height="50" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 </a>
 <!--Prisma-->
 <a href="https://www.prisma.io/" style="background-color:white;"  height="50" target="_blank" rel="noreferrer">
