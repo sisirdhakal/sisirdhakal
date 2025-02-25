@@ -94,6 +94,18 @@ With a foundation in MERN Stack development, my current passion is centered on m
 <a href="https://www.expressjs.org/" style="background-color:white;"  height="50" target="_blank" rel="noreferrer">
 <img src="./Expressjs.png" alt="express" height="40"/>
 </a>
+<!--NestJs-->
+<a href="https://nestjs.com/" style="background-color:white;"  height="50" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+</a>
+<!--Graphql-->
+<a href="https://graphql.org/" style="background-color:white;"  height="50" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg" alt="nestjs" width="40" height="40"/>
+</a>
+<!--Prisma-->
+<a href="https://www.prisma.io/" style="background-color:white;"  height="50" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+</a>
 <!-- mongodb  -->
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
